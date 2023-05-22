@@ -196,9 +196,9 @@ main()
     sudo apt-get update -q 
     sudo apt-get install -y -q git wget
 
-    install_gnome_extensions
-    install_brave
-    set_dark_theme
+    # install_gnome_extensions
+    # install_brave
+    # set_dark_theme
     install_oh_my_zsh
     install_tilix
     install_vscode
